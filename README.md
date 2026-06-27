@@ -5,6 +5,6 @@ including low-stock alerts, dashboards, and reports to support efficient invento
 ## Getting Started
 Upload the sql file
 
-## App Photos:
+## System Photos:
 
 
