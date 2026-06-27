@@ -6,5 +6,3 @@ including low-stock alerts, dashboards, and reports to support efficient invento
 Upload the sql file
 
 ## System Photos:
-
-
