@@ -4,7 +4,7 @@ It's an invertory system for streamline inventory operations. Implemented module
 including low-stock alerts, dashboards, and reports to support efficient inventory control.
 
 ## Getting Started
-Upload the sql file
+Download the sql file and than upload it to Oracle APEX Workspace
 
 ## System Photos:
 ![Image Alt](Images/one.jpg)
